@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: rgb(255, 121, 255);
+    text-align: center;
+    border: 15px double skyblue;
+}
+
+h4 {
+    color: rgb(175, 25, 175);
+}
+
+h {
+    color: rgb(255, 106, 255);
+}
+h2{
+    color: rgb(255, 106, 255);
+    text-align: center;
+    border: 5px dotted;
+}

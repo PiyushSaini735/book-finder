@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  background-image: url(https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg);
+ 
+}
+
+img {
+  border: 10px double rgb(50, 251, 0);
+  height: 300px;
+  width: 300px;
+  padding: 5px;
+}
